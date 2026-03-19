@@ -127,7 +127,9 @@ Injected Gaussian measurement noise ($\sigma = 0.5^\circ C$) into the feedback l
 
 5. Run the simulation and open the Scopes to view the temperature tracking, control effort, and parameter convergence.
 
-📬 Let's Connect!
+---
+
+## 📬 Let's Connect!
 I am actively open to discussing Control Systems, DSP, Mechatronics, and new career opportunities.
 
 Email: ahmed.ouf2099@gmail.com
