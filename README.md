@@ -126,3 +126,14 @@ Injected Gaussian measurement noise ($\sigma = 0.5^\circ C$) into the feedback l
 4. The system parameters will load automatically into the workspace via the model's InitFcn callback.
 
 5. Run the simulation and open the Scopes to view the temperature tracking, control effort, and parameter convergence.
+
+📬 Let's Connect!
+I am actively open to discussing Control Systems, DSP, Mechatronics, and new career opportunities.
+
+Email: ahmed.ouf2099@gmail.com
+
+LinkedIn: linkedin.com/in/ahmed-ouf-2014a
+
+Location: Gdańsk, Poland
+
+If you find this project interesting or useful, feel free to ⭐ this repository!
