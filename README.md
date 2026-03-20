@@ -6,7 +6,7 @@
 [![Control Systems](https://img.shields.io/badge/Control_Systems-Adaptive_Control-success.svg?style=flat-square)](#)
 
 **Developed by:** [Ahmed Ouf](https://www.linkedin.com/in/ahmed-ouf-2014a) | Standard DSP and Control Algorithm Engineer  
-**My supervisor:** [Dr. Piotr Kaczmarek](https://www.linkedin.com/in/piotr-kaczmarek-85b08712a/) | Dr. Eng. Piotr Kaczmarek in Gdańsk University of Technology
+**I want to Thank who teach me Adaptive control:** [Dr. Piotr Kaczmarek](https://www.linkedin.com/in/piotr-kaczmarek-85b08712a/) | Dr. Eng. Piotr Kaczmarek in Gdańsk University of Technology
 
 ---
 
